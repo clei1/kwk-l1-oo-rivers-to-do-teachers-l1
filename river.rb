@@ -8,7 +8,7 @@ class River
     @name = n
   end
 
-  def floods
+  def flood
     @discharge * 1.3
   end
 
