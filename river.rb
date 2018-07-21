@@ -4,7 +4,7 @@ class River
 
   attr_accessor :name, :length, :countries, :discharge
 
-  def initialization(n)
+  def initialize(n)
     @name = n
 
   end
