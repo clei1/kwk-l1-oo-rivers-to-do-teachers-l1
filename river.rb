@@ -2,6 +2,9 @@
 
 class River
 
+  def initialization(n)
+    @name = n
+  end
 
   def flood
 
