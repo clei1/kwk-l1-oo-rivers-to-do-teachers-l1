@@ -6,7 +6,6 @@ class River
 
   def initialize(n)
     @name = n
-
   end
 
   def flood
